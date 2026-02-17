@@ -1,0 +1,11 @@
+sentence-transformers
+qdrant_client
+llama_index
+llama-index-vector-stores-qdrant
+llama_index.embeddings.huggingface
+llama_index.embeddings.huggingface
+llama_index.llms.gemini
+loguru
+fastapi
+fastapi[all]
+streamlit
